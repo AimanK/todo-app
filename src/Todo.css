@@ -1,0 +1,16 @@
+.todo {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+
+}
+
+.todo > ul > li {
+    margin: 5px;
+    padding: 10px;
+    width: 200px;
+    border-radius: 9px;
+    background-color: rgb(233, 231, 231);
+    list-style: none;
+    font-weight: 500;
+}
