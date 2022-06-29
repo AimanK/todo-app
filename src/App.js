@@ -7,7 +7,7 @@ import Form from './Form.js';
 function App() {
   return (
     <div className="app">
-      <h1>Welcome to to-do list</h1>
+      <h1>Welcome to your to-do list</h1>
 
       <Form />
 

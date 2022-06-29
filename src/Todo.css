@@ -14,3 +14,25 @@
     list-style: none;
     font-weight: 500;
 }
+
+.btn {
+    display: flex;
+    flex-direction: column;
+    background-color: #51a7fc;
+     border: none;
+    color: white;
+    padding: 4px 8px;
+    text-decoration: none;
+     margin: 4px 2px;
+     cursor: pointer;
+     border-radius: 5px;
+}
+
+.btn:hover {
+    background-color: #74baff;
+}
+
+.btn:focus {
+background-color: #c9e4ff;
+}
+

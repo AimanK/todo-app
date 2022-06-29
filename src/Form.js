@@ -7,8 +7,7 @@ function Form() {
 
       <form>
         <label>
-              Add todo:
-              <input type="text" name="add todo" />
+              <input type="text" name="add todo" placeholder="Add a new todo..." />
         </label>
               <input type="submit" value="Submit" />
       </form>
